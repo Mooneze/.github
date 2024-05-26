@@ -1,1 +1,1 @@
-![Logo](../assets/LOGO_LARGE.png)
+![Logo](https://raw.githubusercontent.com/Mooneze/.github/main/assets/LOGO_LARGE.png)
